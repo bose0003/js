@@ -11,13 +11,13 @@ The characters should form a chessboard.
 
 Passing this string to console.log should show something like this:
 
- # # # #
+# # # #
 # # # # 
- # # # #
+# # # #
 # # # # 
- # # # #
+# # # #
 # # # # 
- # # # #
+# # # #
 # # # #
 
 When you have a program that generates this pattern, 
